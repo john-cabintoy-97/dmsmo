@@ -3,7 +3,7 @@
 A document management system designed to streamline and digitize the handling of incoming and outgoing municipal office documents. Built in PHP and MySQL, this system helps local government units manage official files more efficiently, reduce paperwork, and maintain a searchable archive.
 
 ---
-![DMSMO Screenshot](https://github.com/john-cabintoy-97/dmsmo/screenshots/home.png)
+![DMSMO Screenshot](https://github.com/john-cabintoy-97/dmsmo/blob/main/screenshots/home.png)
 
 
 ## 🚀 Features
